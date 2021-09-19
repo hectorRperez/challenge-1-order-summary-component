@@ -26,6 +26,8 @@ Users should be able to:
 
 -   See hover states for interactive elements
 
+### screenshot
+
 ![](my-proyect.PNG)
 
 ### Links
@@ -58,5 +60,5 @@ Users should be able to:
 ## Author
 
 -   Website - [My portafolio](https://hectorrperez.github.io/portafolio_hector/m)
--   Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/hectorRpereze)
+-   Frontend Mentor - [Frontend Mentor user](https://www.frontendmentor.io/profile/hectorRperez)
 -   Twitter - [@yourusername](https://twitter.com/hectorPerezDev)
